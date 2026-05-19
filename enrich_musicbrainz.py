@@ -60,7 +60,8 @@ with open('data/performances.csv', 'r', encoding='utf-8') as csvfile:
     try:
         with open('data/raw/musicbrainz_results.csv', 'r', encoding='utf-8') as buffer:
             for row in csv.DictReader(buffer):
-                existing_artists[row['artist_name']] = row
+                if row['mb_id']:  # Only consider rows with a valid MusicBrainz ID
+                    existing_artists[row['artist_name']] = row
     except FileNotFoundError:
         pass  # file absent on first run, start from scratch
 
