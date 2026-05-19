@@ -1,7 +1,7 @@
 import sqlite3
 
 # Create the SQLite database and all tables for the Cabaret Vert dataset
-conn = sqlite3.connect('data/cabaret_vert.db')
+conn = sqlite3.connect('../data/cabaret_vert.db')
 cursor = conn.cursor()
 
 cursor.execute("""

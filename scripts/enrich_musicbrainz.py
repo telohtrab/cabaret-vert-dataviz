@@ -55,10 +55,10 @@ def search_artist(name):
 
 existing_artists = {}
 
-with open('data/performances.csv', 'r', encoding='utf-8') as csvfile:
+with open('../data/performances.csv', 'r', encoding='utf-8') as csvfile:
     # Load already-processed artists to avoid duplicate API calls
     try:
-        with open('data/raw/musicbrainz_results.csv', 'r', encoding='utf-8') as buffer:
+        with open('../data/raw/musicbrainz_results.csv', 'r', encoding='utf-8') as buffer:
             for row in csv.DictReader(buffer):
                 if row['mb_id']:  # Only consider rows with a valid MusicBrainz ID
                     existing_artists[row['artist_name']] = row
@@ -66,7 +66,7 @@ with open('data/performances.csv', 'r', encoding='utf-8') as csvfile:
         pass  # file absent on first run, start from scratch
 
     # Read the lineup and enrich each artist not yet processed
-    with open('data/raw/musicbrainz_results.csv', 'a', newline='', encoding='utf-8') as buffer:
+    with open('../data/raw/musicbrainz_results.csv', 'a', newline='', encoding='utf-8') as buffer:
         writer = csv.DictWriter(buffer, fieldnames=["artist_name", "type", "country", "origin", "mb_id"])
         for row in csv.DictReader(csvfile):
             artist_name = row['artist_name']
