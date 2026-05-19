@@ -4,11 +4,11 @@ results_dict = {}
 lineup_artists = []
 
 # Load MusicBrainz metadata into a dict keyed by lowercase artist name
-with open('../data/raw/musicbrainz_results.csv', 'r', encoding='utf-8') as results:
+with open('../data/raw/uniqueartists_backup.csv', 'r', encoding='utf-8') as results:
     results_dict = {row['artist_name'].lower(): row for row in csv.DictReader(results)}
 
 # Load all performance rows into memory
-with open('../data/performances.csv', 'r', encoding='utf-8') as lineup:
+with open('../data/performances_backup.csv', 'r', encoding='utf-8') as lineup:
     lineup_artists = list(csv.DictReader(lineup))
 
 # Write merged output to a new file to avoid data loss if something goes wrong
