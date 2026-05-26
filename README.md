@@ -14,4 +14,5 @@ This is a personal learning project to practice data visualization, data analysi
 - Python (data collection & enrichment)
 - SQLite (database)
 - MusicBrainz API (artist metadata)
-- Discogs API
+- Discogs API (artists genre and styles from releases / masters)
+- Wikidata API (gender)
