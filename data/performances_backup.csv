@@ -1,23 +1,24 @@
 artist_name,year,stage,performance_date,start_time,end_time,cancelled,replacement_for,notes,country,origin,artist_type,gender,genre,style,mb_id
-Jacques Higelin,2005,,,,,0,,,France,Brou-sur-Chantereine - Seine-et-Marne,Person,,,,f75e42a2-e1f8-4873-ae07-f925dbc095ba
-Mano Solo,2005,,,,,0,,,France,Châlons-du-Maine - Mayenne,Person,,,,5febe272-7691-4ea8-a3cf-c6c7f98d9bf1
-Flying Pooh,2005,,,,,0,,,France,Pontoise - Val-d'Oise,Band,,,,0b75a1ba-8aa1-4136-91c8-ec22cf89554e
-Mass Hysteria,2005,,,,,0,,,France,Paris - Paris,Band,,,,38a35139-7ef9-44e1-a565-e1018b4a7635
-Taxi Brouss',2005,,,,,0,,,France,Toulouse - Garonne,Band,,,,
-K2R Riddim,2005,,,,,0,,,France,Cergy - Val-d'Oise,Band,,,,d8ce0617-a384-4b2e-8d3c-463f67a97b87
-Karpatt,2005,,,,,0,,,France,Paris - Paris,Band,,,,ee271287-f304-4a23-8d61-8b56e76d16ad
-Cyann & Ben,2005,,,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,81f772a9-5bea-4fc0-a5fb-70aa3570fa0d
-Kracooqas,2005,,,,,0,,,France,Sedan - Ardennes,Band,,,,
-Kitchi Kitchi,2005,,,,,0,,,France,Attigny - Ardennes,Band,,,,
-Grendel,2005,,,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
-Hedgar,2005,,,,,0,,,France,Sedan - Ardennes,Band,,,,
-Ed Warner's Cage,2005,,,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,10f9c2da-93fd-4f6d-b9ec-5ce569dd750a
-Durb,2005,,,,,0,,,France,Sedan - Ardennes,Band,,,,
-Funky Toaster,2005,,,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
-Antidote,2005,,,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
-Tagar,2005,,,,,0,,,France,Rethel - Ardennes,Band,,,,
-Sliping Kangooroos,2005,,,,,0,,,France,Sedan - Ardennes,Band,,,,
-Florent Vintrignier,2005,,,,,0,,,France,Paris - Paris,Person,,,,e3fce7ac-f6da-4e2c-9519-80e6ee6f4fde
+Mano Solo,2005,Scène 1,2005-09-17,,,0,,,France,Châlons-du-Maine - Mayenne,Person,,,,5febe272-7691-4ea8-a3cf-c6c7f98d9bf1
+Mass Hysteria,2005,Scène 1,2005-09-17,,,0,,,France,Paris - Paris,Band,,,,38a35139-7ef9-44e1-a565-e1018b4a7635
+K2R Riddim,2005,Scène 1,2005-09-17,,,0,,,France,Cergy - Val-d'Oise,Band,,,,d8ce0617-a384-4b2e-8d3c-463f67a97b87
+Cyann & Ben,2005,Scène 1,2005-09-17,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,81f772a9-5bea-4fc0-a5fb-70aa3570fa0d
+Flying Pooh,2005,Scène 1,2005-09-17,,,0,,,France,Pontoise - Val-d'Oise,Band,,,,0b75a1ba-8aa1-4136-91c8-ec22cf89554e
+Jacques Higelin,2005,Scène 1,2005-09-18,,,0,,,France,Brou-sur-Chantereine - Seine-et-Marne,Person,,,,f75e42a2-e1f8-4873-ae07-f925dbc095ba
+Florent Vintrignier,2005,Scène 1,2005-09-18,,,0,,,France,Paris - Paris,Person,,,,e3fce7ac-f6da-4e2c-9519-80e6ee6f4fde
+Grendel,2005,Scène 2,2005-09-17,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
+Durb,2005,Scène 2,2005-09-17,,,0,,,France,Sedan - Ardennes,Band,,,,
+Kracooqas,2005,Scène 2,2005-09-17,,,0,,,France,Sedan - Ardennes,Band,,,,
+Taxi Brouss',2005,Scène 2,2005-09-17,,,0,,,France,Toulouse - Garonne,Band,,,,
+Hedgar,2005,Scène 2,2005-09-17,,,0,,,France,Sedan - Ardennes,Band,,,,
+Ed Warner's Cage,2005,Scène 2,2005-09-17,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,10f9c2da-93fd-4f6d-b9ec-5ce569dd750a
+Kitchi Kitchi,2005,Scène 2,2005-09-17,,,0,,,France,Attigny - Ardennes,Band,,,,
+Funky Toaster,2005,Scène 2,2005-09-17,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
+Karpatt,2005,Scène 2,2005-09-18,,,0,,,France,Paris - Paris,Band,,,,ee271287-f304-4a23-8d61-8b56e76d16ad
+Léolo,2005,Scène 2,2005-09-18,,,,,,,,,,,,
+Antidote,2005,Scène 2,2005-09-18,,,0,,,France,Charleville-Mézières - Ardennes,Band,,,,
+Tagar,2005,Scène 2,2005-09-18,,,0,,,France,Rethel - Ardennes,Band,,,,
+Sliping Kangooroos,2005,Scène 2,2005-09-18,,,0,,,France,Sedan - Ardennes,Band,,,,
 Hubert-Félix Thiéfaine,2006,Scène 1,2006-09-03,18:30,19:30,0,,,France,Dole - Jura,Person,,,,29e9c7d7-e79a-41d5-a255-c19ff04d5065
 Les Wampas,2006,Scène 1,2006-09-02,19:30,20:30,0,,,France,Paris - Paris,Band,,,,46c6a335-6064-4118-8021-83fb37b1bc6a
 Dionysos,2006,Scène 1,2006-09-01,23:30,00:30,0,,,France,Valence - Drôme,Band,,,,7d248ccb-588a-414e-ab3e-be6dd8b71f81
